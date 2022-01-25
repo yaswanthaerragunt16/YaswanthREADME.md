@@ -1,8 +1,8 @@
-# actions and tabs i learned about
+# actions and tabs I learned about!!!
 
 Explored various options provided under Userdashboard
 
-## Setting
+## Settings
 Under setting we can delete a repository after confirming repository name as displayed and confirming our password.
 
 ## Pull requests
